@@ -1,0 +1,5 @@
+numpy~=1.26.2
+opencv-python-headless
+cvzone~=1.6.1
+requests
+tensorflow

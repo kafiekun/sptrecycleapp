@@ -1,0 +1,6 @@
+0 Empty
+1 General waste
+2 Soda can
+3 Cup
+4 Background
+5 Plastic bottles
